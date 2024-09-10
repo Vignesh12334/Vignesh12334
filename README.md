@@ -23,6 +23,11 @@ I am a passionate Product Engineer specializing in full-stack development with e
 ### Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![DevOps](https://img.shields.io/badge/-DevOps-0F9D58?style=for-the-badge&logo=devops&logoColor=white)
+
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -45,7 +50,6 @@ Currently, I am expanding my knowledge in:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh12334&layout=compact&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-
 ## 🏆 Achievements & Trophies
 
 ![Achievements](https://github-profile-trophy.vercel.app/?username=Vignesh12334&theme=onedark&no-frame=true&column=7)
@@ -54,3 +58,5 @@ Currently, I am expanding my knowledge in:
 
 ## 💬 Let's Connect!
 Feel free to reach out for collaborations, discussions, or just a chat about tech.
+
+---
